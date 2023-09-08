@@ -58,13 +58,13 @@
   align-self: center;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 370px) {
   .large {
     display: none;
   }
 }
 
-@media screen and (min-width: 451px) {
+@media screen and (min-width: 371px) {
   .small {
     display: none;
   }
